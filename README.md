@@ -8,7 +8,7 @@ Disclaimer: All consequences arising from the use of this project shall be borne
 
 =================================================
 
-Version: 0.01
+Version: 0.03
 
 Environment: Python 3.12
 
